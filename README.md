@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manokamnasingh1
+- 👋 Hi, I’m Manokamna singh
 - 👀 I’m interested in webdevelopment,DSA,Problem Solving,
 - 🌱 I’m currently learning Webdevelopment, webframework
 - 💞️ I’m looking to collaborate on web Desining
