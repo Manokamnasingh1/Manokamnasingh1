@@ -5,7 +5,7 @@ i am fill Stack Developer
 - <img src="https://img.icons8.com/color/32/000000/algorithm.png" width="20"/> &nbsp; <b>Data Structures and Algorithms (DSA)</b>
 - <img src="https://img.icons8.com/color/32/000000/idea.png" width="20"/> &nbsp; <b>Problem Solving</b>
 ## 💞️ <span style="color:#E17055;">Looking to Collaborate On</span>
-- <a href="https://manokamnasingh1.github.io/Portfolio1/" target="_blank">
+- <a href="https://tinyurl.com/33ar4mzz" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain--v2.png" width="28"/> <b>Web Designing Projects</b>
   </a> &nbsp;|&nbsp;
 ## 🌱 <span style="color:#00B894;">Currently Learning</span>
