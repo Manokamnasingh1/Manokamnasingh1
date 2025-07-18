@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m <span style="color:#7D5FFF;font-weight:bold">Manokamna Singh</span>
-     - <img src="https://img.icons8.com/color/32/000000/source-code.png" width="20"/> &nbsp; <b>Full Stack Developer</b>
+     I am Full Stack Web Developer
 ## 👀 <span style="color:#FFA502;">Interests</span>
 - <img src="https://img.icons8.com/color/32/000000/source-code.png" width="20"/> &nbsp; <b>Web Development</b>
 - <img src="https://img.icons8.com/color/32/000000/algorithm.png" width="20"/> &nbsp; <b>Data Structures and Algorithms (DSA)</b>
