@@ -15,25 +15,20 @@
 
 <p align="left">
   <a href="https://manokamnasingh1.github.io/Portfolio1/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="40" alt="Portfolio"/><br/>
-    <sub><b>Portfolio</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="30" alt="Portfolio"/>
+  </a>
   <a href="https://www.instagram.com/manokamnasingh.official" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="40" alt="Instagram"/><br/>
-    <sub><b>Instagram</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="30" alt="Instagram"/>
+  </a>
   <a href="https://www.facebook.com/manokamna.singh.7771/" target="_blank">
-    <img src="https://img.icons8.com/color/48/facebook-new.png" width="40" alt="Facebook"/><br/>
-    <sub><b>Facebook</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.icons8.com/color/48/facebook-new.png" width="30" alt="Facebook"/>
+  </a>
   <a href="https://www.linkedin.com/in/manokamna-singh-b25017213/" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" alt="LinkedIn"/><br/>
-    <sub><b>LinkedIn</b></sub>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="30" alt="LinkedIn"/>
   </a>
 </p>
+
+
 
 
 
