@@ -1,12 +1,12 @@
 # 👋 Hi, I’m <span style="color:#7D5FFF;font-weight:bold">Manokamna Singh</span>
-i am fill Stack Developer 
+     <span style="color:#7D5FFF;font-weight:bold">Full Stack Developer</span>
 ## 👀 <span style="color:#FFA502;">Interests</span>
 - <img src="https://img.icons8.com/color/32/000000/source-code.png" width="20"/> &nbsp; <b>Web Development</b>
 - <img src="https://img.icons8.com/color/32/000000/algorithm.png" width="20"/> &nbsp; <b>Data Structures and Algorithms (DSA)</b>
 - <img src="https://img.icons8.com/color/32/000000/idea.png" width="20"/> &nbsp; <b>Problem Solving</b>
 ## 💞️ <span style="color:#E17055;">Looking to Collaborate On</span>
 - <a href="https://tinyurl.com/33ar4mzz" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/domain--v2.png" width="28"/> <b>Web Designing Projects</b>
+    <img src="https://img.icons8.com/color/48/000000/domain--v2.png" width="28"/> <b>Request For Web Designing Service</b>
   </a> &nbsp;|&nbsp;
 ## 🌱 <span style="color:#00B894;">Currently Learning</span>
 - <img src="https://img.icons8.com/color/32/000000/web.png" width="20"/> Web Development & Web Frameworks
