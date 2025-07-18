@@ -1,5 +1,5 @@
 # 👋 Hi, I’m **Manokamna Singh**
-### I am a **Full Stack Web Developer**
+### **Full Stack Web Developer**
 ## 💞️ **Looking to Collaborate On**
 - 👉 [Request For Web Designing Service](https://tinyurl.com/33ar4mzz)
 ---
